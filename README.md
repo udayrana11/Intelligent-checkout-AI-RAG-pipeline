@@ -109,9 +109,9 @@ All stitched together into a real-time, privacy-first AI system.
 | Memory        | Streamlit State → Redis / DynamoDB           |
 | Tracing/Eval  | LangSmith                                    |
 | Deployment    | Docker + EC2 + Load Balancer + DB            |
-                | + Performance + relability + scalability     |
-                  + availability                               |
-                  (Full system design architecture)            |
+|               | + Performance + relability + scalability     |
+|               | + availability                               |
+|               | (Full system design architecture)            |
 
 ---
 Author: Uday
