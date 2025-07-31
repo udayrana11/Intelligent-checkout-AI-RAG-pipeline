@@ -93,6 +93,9 @@ All stitched together into a real-time, privacy-first AI system.
 - Focus on tone, factual grounding, price sensitivity, shopping patterns
 - Tools: HuggingFace Transformers + PEFT, QLoRA, Lamini
 
+### 🤖 LLM Agents (Optional)
+- CrewAI, AutoGen, LangGraph
+
 ---
 
 ## 📦 Tech Stack
@@ -105,7 +108,10 @@ All stitched together into a real-time, privacy-first AI system.
 | Reranking     | RRF, LLM re-scoring                          |
 | Memory        | Streamlit State → Redis / DynamoDB           |
 | Tracing/Eval  | LangSmith                                    |
-| Deployment    | Docker + EC2 + Load Balancer                 |
+| Deployment    | Docker + EC2 + Load Balancer + DB            |
+                | + Performance + relability + scalability     |
+                  + availability                               |
+                  (Full system design architecture)            |
 
 ---
 Author: Uday
