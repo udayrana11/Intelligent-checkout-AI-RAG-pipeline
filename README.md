@@ -1,4 +1,4 @@
-# Intelligent-checkout-AI-pipeline
+# Intelligent-checkout-GenAI-pipeline/ Architecture
 A production-grade Retrieval-Augmented Generation (RAG) system powering the Intelligent Checkout Assistant. Combines hybrid search, graph retrieval, reranking, chat memory, and LangSmith eval - built for trust, privacy, and real-time AI-native commerce.
 
 # 🛒 Intelligent Checkout Assistant (ICA) — AI-Native Commerce System Design
